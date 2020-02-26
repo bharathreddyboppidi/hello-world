@@ -36,5 +36,6 @@
 				</tr></table>
 			<input type="submit" value="Submit" /></form>
 </body>
-</html>
+</html> 
+<h1> bharathreddy registratio form </h1>
 
